@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/boksMatch/boksMatch.iml" filepath="$PROJECT_DIR$/boksMatch/boksMatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calculatorLvl2/calculatorLvl2.iml" filepath="$PROJECT_DIR$/calculatorLvl2/calculatorLvl2.iml" />
       <module fileurl="file://$PROJECT_DIR$/daireAlan/daireAlan.iml" filepath="$PROJECT_DIR$/daireAlan/daireAlan.iml" />
       <module fileurl="file://$PROJECT_DIR$/dongulerPratik2/dongulerPratik2.iml" filepath="$PROJECT_DIR$/dongulerPratik2/dongulerPratik2.iml" />
       <module fileurl="file://$PROJECT_DIR$/etkinlikOnerici/etkinlikOnerici.iml" filepath="$PROJECT_DIR$/etkinlikOnerici/etkinlikOnerici.iml" />
@@ -21,6 +22,7 @@
       <module fileurl="file://$PROJECT_DIR$/manavKasa/manavKasa.iml" filepath="$PROJECT_DIR$/manavKasa/manavKasa.iml" />
       <module fileurl="file://$PROJECT_DIR$/numaraSiralama/numaraSiralama.iml" filepath="$PROJECT_DIR$/numaraSiralama/numaraSiralama.iml" />
       <module fileurl="file://$PROJECT_DIR$/passFailProgram/passFailProgram.iml" filepath="$PROJECT_DIR$/passFailProgram/passFailProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursiveFibonacci/recursiveFibonacci.iml" filepath="$PROJECT_DIR$/recursiveFibonacci/recursiveFibonacci.iml" />
       <module fileurl="file://$PROJECT_DIR$/taksimetre/taksimetre.iml" filepath="$PROJECT_DIR$/taksimetre/taksimetre.iml" />
       <module fileurl="file://$PROJECT_DIR$/ucakBileti/ucakBileti.iml" filepath="$PROJECT_DIR$/ucakBileti/ucakBileti.iml" />
       <module fileurl="file://$PROJECT_DIR$/ucgenAlanHesaplayici/ucgenAlanHesaplayici.iml" filepath="$PROJECT_DIR$/ucgenAlanHesaplayici/ucgenAlanHesaplayici.iml" />
