@@ -20,6 +20,7 @@
       <module fileurl="file://$PROJECT_DIR$/numaraSiralama/numaraSiralama.iml" filepath="$PROJECT_DIR$/numaraSiralama/numaraSiralama.iml" />
       <module fileurl="file://$PROJECT_DIR$/passFailProgram/passFailProgram.iml" filepath="$PROJECT_DIR$/passFailProgram/passFailProgram.iml" />
       <module fileurl="file://$PROJECT_DIR$/taksimetre/taksimetre.iml" filepath="$PROJECT_DIR$/taksimetre/taksimetre.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ucakBileti/ucakBileti.iml" filepath="$PROJECT_DIR$/ucakBileti/ucakBileti.iml" />
       <module fileurl="file://$PROJECT_DIR$/ucgenAlanHesaplayici/ucgenAlanHesaplayici.iml" filepath="$PROJECT_DIR$/ucgenAlanHesaplayici/ucgenAlanHesaplayici.iml" />
       <module fileurl="file://$PROJECT_DIR$/vkiHesaplayici/vkiHesaplayici.iml" filepath="$PROJECT_DIR$/vkiHesaplayici/vkiHesaplayici.iml" />
     </modules>
