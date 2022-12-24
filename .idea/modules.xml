@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/boksMatch/boksMatch.iml" filepath="$PROJECT_DIR$/boksMatch/boksMatch.iml" />
       <module fileurl="file://$PROJECT_DIR$/calculatorLvl2/calculatorLvl2.iml" filepath="$PROJECT_DIR$/calculatorLvl2/calculatorLvl2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chineseZodiac/chineseZodiac.iml" filepath="$PROJECT_DIR$/chineseZodiac/chineseZodiac.iml" />
       <module fileurl="file://$PROJECT_DIR$/daireAlan/daireAlan.iml" filepath="$PROJECT_DIR$/daireAlan/daireAlan.iml" />
       <module fileurl="file://$PROJECT_DIR$/dongulerPratik2/dongulerPratik2.iml" filepath="$PROJECT_DIR$/dongulerPratik2/dongulerPratik2.iml" />
       <module fileurl="file://$PROJECT_DIR$/etkinlikOnerici/etkinlikOnerici.iml" filepath="$PROJECT_DIR$/etkinlikOnerici/etkinlikOnerici.iml" />
