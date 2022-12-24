@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/gpaCalculator/gpaCalculator.iml" filepath="$PROJECT_DIR$/gpaCalculator/gpaCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/hesapMakinesi/hesapMakinesi.iml" filepath="$PROJECT_DIR$/hesapMakinesi/hesapMakinesi.iml" />
       <module fileurl="file://$PROJECT_DIR$/horoscope/horoscope.iml" filepath="$PROJECT_DIR$/horoscope/horoscope.iml" />
+      <module fileurl="file://$PROJECT_DIR$/isPalindrome/isPalindrome.iml" filepath="$PROJECT_DIR$/isPalindrome/isPalindrome.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/javaExercises.iml" filepath="$PROJECT_DIR$/.idea/javaExercises.iml" />
       <module fileurl="file://$PROJECT_DIR$/kdvHesaplayici/kdvHesaplayici.iml" filepath="$PROJECT_DIR$/kdvHesaplayici/kdvHesaplayici.iml" />
       <module fileurl="file://$PROJECT_DIR$/kullaniciGirisi/kullaniciGirisi.iml" filepath="$PROJECT_DIR$/kullaniciGirisi/kullaniciGirisi.iml" />
